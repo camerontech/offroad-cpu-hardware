@@ -4574,19 +4574,9 @@ For Reference, see Amotec Display part ADM0802A (http://amotec-display.com/pdf/A
 <pinref part="U$3" gate="G$1" pin="5V"/>
 </segment>
 <segment>
-<pinref part="SWITCH-JST" gate="G$1" pin="1"/>
-<wire x1="198.12" y1="139.7" x2="193.04" y2="139.7" width="0.1524" layer="91"/>
-<label x="193.04" y="139.7" size="1.778" layer="95"/>
-</segment>
-<segment>
 <wire x1="91.44" y1="132.08" x2="101.6" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="PC6(/RESET)"/>
 <pinref part="U$5" gate="G$1" pin="5V"/>
-</segment>
-<segment>
-<pinref part="SWITCH" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="139.7" x2="220.98" y2="139.7" width="0.1524" layer="91"/>
-<label x="215.9" y="139.7" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -4680,6 +4670,16 @@ For Reference, see Amotec Display part ADM0802A (http://amotec-display.com/pdf/A
 <pinref part="ACCEL" gate="G$1" pin="8"/>
 <wire x1="193.04" y1="99.06" x2="198.12" y2="99.06" width="0.1524" layer="91"/>
 <label x="193.04" y="99.06" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="SWITCH-JST" gate="G$1" pin="1"/>
+<wire x1="198.12" y1="139.7" x2="193.04" y2="139.7" width="0.1524" layer="91"/>
+<label x="193.04" y="139.7" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="SWITCH" gate="G$1" pin="1"/>
+<wire x1="218.44" y1="139.7" x2="220.98" y2="139.7" width="0.1524" layer="91"/>
+<label x="215.9" y="139.7" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D13" class="0">
