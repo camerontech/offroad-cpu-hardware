@@ -1,12 +1,11 @@
-Cameron Tech Offroad CPU.
-=====================================
+# Cameron Tech Offroad CPU
+
 Here is the Eagle schematic and board layout for the CTAIM1. Software can be found here: https://github.com/camerontech/offroad-cpu
 
 If picking up and assembling all of these parts yourself is a bit daunting, you can purchase a kit or pre-assembled
 unit here: http://store.camerontech.io/products/offroad-cpu
 
-Parts
------
+## Parts
 
 **1 x ATMEGA328P-PU** [Digikey ATMEGA328P-PU-ND](http://www.digikey.com/product-detail/en/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589)
 
