@@ -1,6 +1,9 @@
-Cameron Tech Inclinometer & Altimeter
+Cameron Tech Offroad CPU.
 =====================================
-Here is the Eagle schematic and board layout for the CTAIM1.
+Here is the Eagle schematic and board layout for the CTAIM1. Software can be found here: https://github.com/camerontech/offroad-cpu
+
+If picking up and assembling all of these parts yourself is a bit daunting, you can purchase a kit or pre-assembled
+unit here: http://store.camerontech.io/products/offroad-cpu
 
 Parts
 -----
@@ -29,5 +32,4 @@ Parts
 
 **1 x Three-way switch** [SparkFun COM-08236](https://www.sparkfun.com/products/8236)
 
-You also need to supply both 5v and 3.3v. Luckily you can get one of those right
-here: https://github.com/camerontech/dual-voltage
+
