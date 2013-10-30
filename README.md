@@ -23,12 +23,12 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x 0.1F Capacitor** [Digikey 399-4266-ND](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=399-4266-ND&x=-1151&y=-51&formaction=on)
 
-**2 x 22pF** [Digikey 399-9723-ND](http://www.digikey.com/product-detail/en/C315C220K5G5TA/399-9723-ND/3726119)
+**2 x 22pF Capacitor** [Digikey 399-9723-ND](http://www.digikey.com/product-detail/en/C315C220K5G5TA/399-9723-ND/3726119)
 
-**1 x NPN Transistor** [Digikey 2N3904D26ZTR-ND](http://www.digikey.com/product-detail/en/2N3904TFR/2N3904D26ZTR-ND/458818)
+**1 x NPN Transistor** [Mouser 512-2N3904BU](http://www.mouser.com/Search/ProductDetail.aspx?R=2N3904BUvirtualkey51210000virtualkey512-2N3904BU)
 
 **1 x 4-pin JST Connector** [SparkFun PRT-09916](https://www.sparkfun.com/products/9916)
 
-**1 x Three-way switch** [SparkFun COM-08236](https://www.sparkfun.com/products/8236)
+**1 x Three-way switch** [CameronTech Three-way Rocker Switch](http://store.camerontech.io/products/three-way-rocker-switch)
 
 
