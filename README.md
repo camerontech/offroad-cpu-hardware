@@ -27,6 +27,10 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x NPN Transistor** [Mouser 512-2N3904BU](http://www.mouser.com/Search/ProductDetail.aspx?R=2N3904BUvirtualkey51210000virtualkey512-2N3904BU)
 
+**1 x 40-pin Straight Header** [SparkFun PRT-00116](https://www.sparkfun.com/products/116)
+
+**1 x 40-pin Right-angle Header** [SparkFun PRT-00553](https://www.sparkfun.com/products/553)
+
 **1 x Three-way switch** [Cameron Tech Three-way Rocker Switch](http://store.camerontech.io/products/three-way-rocker-switch)
 
 That'll get you everything you need to get it working. You'll still need to connect the three-way switch to the board
