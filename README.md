@@ -15,7 +15,7 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x 5v Regulator** [Digikey MC7805CT-BPMS-ND]( http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=mc7805ct-bpms-nd&x=-1136&y=-51&formaction=on)
 
-**1 x 16MHz Clock Crystal** [SparkFun COM-00536](https://www.sparkfun.com/products/536)
+**1 x 16MHz Clock Crystal** [Mouser 815-ABL-16-B2](http://www.mouser.com/Search/ProductDetail.aspx?R=ABL-16.000MHZ-B2virtualkey52750000virtualkey815-ABL-16-B2)
 
 **1 x 10kΩ Potentiometer** [Digikey D4AA14-ND](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=D4AA14-ND&x=-1136&y=-51&formaction=on)
 
@@ -27,8 +27,24 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x NPN Transistor** [Mouser 512-2N3904BU](http://www.mouser.com/Search/ProductDetail.aspx?R=2N3904BUvirtualkey51210000virtualkey512-2N3904BU)
 
+**1 x Three-way switch** [Cameron Tech Three-way Rocker Switch](http://store.camerontech.io/products/three-way-rocker-switch)
+
+That'll get you everything you need to get it working. You'll still need to connect the three-way switch to the board
+somehow and get power in. When you buy one of these from Cameron Tech I include a few more parts for easy hookup.
+
+A 4-wire JST connector hooks up the three-way switch to the circuit and also lets you disconnect it:
+
 **1 x 4-pin JST Connector** [SparkFun PRT-09916](https://www.sparkfun.com/products/9916)
 
-**1 x Three-way switch** [CameronTech Three-way Rocker Switch](http://store.camerontech.io/products/three-way-rocker-switch)
+You can solder 12v right to your circuit, or use a 9v battery. If you want something less permanent then use a screw
+terminal so you can unhook the wires again if necessary:
 
+**1 x 2-pin screw terminal** [SparkFun PRT-08432](https://www.sparkfun.com/products/8432)
 
+**1 x 9v Battery Strap** [Digikey 81-8K-ND](http://www.digikey.com/product-detail/en/81-8/81-8K-ND/303954)
+
+Finally, unless you want to do a lot of wire-routing and excess soldering by hand and manually following the 
+schematic to hook everything up, you can also get the circuit board that lays everything out nicely and attaches 
+as a backpack to the LCD screen:
+
+**1 x Offroad CPU Circuit Board** [Cameron Tech CTORD100](http://store.camerontech.io/products/offroad-cpu-circuit-board)
