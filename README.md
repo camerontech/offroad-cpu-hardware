@@ -5,6 +5,8 @@ Here is the Eagle schematic and board layout for the CTAIM1. Software can be fou
 If picking up and assembling all of these parts yourself is a bit daunting, you can purchase a kit or pre-assembled
 unit here: http://store.camerontech.io/products/offroad-cpu
 
+![Schematic](http://camerontech.github.io/offroad-cpu-hardware/images/schematic.png)
+
 ## Parts
 
 **1 x ATMEGA328P-PU** [Cameron Tech ATMEGA-UNO](http://store.camerontech.io/products/atmega)
