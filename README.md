@@ -35,8 +35,10 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x Three-way switch** [Three-way Rocker Switch](https://www.sparkfun.com/products/8184)
 
+**1 x Three-way switch breakout board** [Breakout Board](https://oshpark.com/shared_projects/Y3Nexyzu)
+
 That'll get you everything you need to get it working. You'll still need to connect the three-way switch to the board
-somehow and get power in. When you buy one of these from Cameron Tech I include a few more parts for easy hookup.
+somehow and get power in. 
 
 A 4-wire JST connector hooks up the three-way switch to the circuit and also lets you disconnect it:
 
