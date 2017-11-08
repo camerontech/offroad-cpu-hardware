@@ -9,7 +9,7 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 ## Parts
 
-**1 x ATMEGA328P-PU** [Cameron Tech ATMEGA-UNO](http://amzn.to/2iHWBoK)
+**1 x ATMEGA328P-PU** [ATMEGA 328](http://amzn.to/2iHWBoK)
 
 **1 x LCD** [SparkFun LCD-00709](https://www.sparkfun.com/products/709)
 
