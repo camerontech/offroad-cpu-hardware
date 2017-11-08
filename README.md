@@ -9,11 +9,11 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 ## Parts
 
-**1 x ATMEGA328P-PU** [Cameron Tech ATMEGA-UNO](http://store.camerontech.io/products/atmega)
+**1 x ATMEGA328P-PU** [Cameron Tech ATMEGA-UNO](http://amzn.to/2iHWBoK)
 
 **1 x LCD** [SparkFun LCD-00709](https://www.sparkfun.com/products/709)
 
-**1 x Multi-sensor** [Cameron Tech CT10DOF](http://store.camerontech.io/products/megasensor)
+**1 x Multi-sensor** [10DOF Board](http://amzn.to/2yh2NuF)
 
 **1 x 5v Regulator** [Digikey MC7805CT-BPMS-ND]( http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=mc7805ct-bpms-nd&x=-1136&y=-51&formaction=on)
 
@@ -33,7 +33,7 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x 40-pin Right-angle Header** [SparkFun PRT-00553](https://www.sparkfun.com/products/553)
 
-**1 x Three-way switch** [Cameron Tech Three-way Rocker Switch](http://store.camerontech.io/products/three-way-rocker-switch)
+**1 x Three-way switch** [Three-way Rocker Switch](https://www.sparkfun.com/products/8184)
 
 That'll get you everything you need to get it working. You'll still need to connect the three-way switch to the board
 somehow and get power in. When you buy one of these from Cameron Tech I include a few more parts for easy hookup.
@@ -53,4 +53,4 @@ Finally, unless you want to do a lot of wire-routing and excess soldering by han
 schematic to hook everything up, you can also get the circuit board that lays everything out nicely and attaches 
 as a backpack to the LCD screen:
 
-**1 x Offroad CPU Circuit Board** [Cameron Tech CTORD100](http://store.camerontech.io/products/offroad-cpu-circuit-board)
+**1 x Offroad CPU Circuit Board** [Cameron Tech CTORD100](https://oshpark.com/shared_projects/I7EZdFw5)
