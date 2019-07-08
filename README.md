@@ -13,7 +13,7 @@ unit here: http://store.camerontech.io/products/offroad-cpu
 
 **1 x LCD** [SparkFun LCD-00709](https://www.sparkfun.com/products/709)
 
-**1 x Multi-sensor** [10DOF Board](http://amzn.to/2yh2NuF)
+**1 x Multi-sensor** [10DOF Board](https://www.amazon.com/SUNKEE-1232055-Attitude-Indicator-L3G4200D/dp/B00CD239UG)
 
 **1 x 5v Regulator** [Digikey MC7805CT-BPMS-ND]( http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=mc7805ct-bpms-nd&x=-1136&y=-51&formaction=on)
 
